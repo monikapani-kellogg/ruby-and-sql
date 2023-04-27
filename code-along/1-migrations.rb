@@ -11,7 +11,7 @@
 # - Add model and table for the Company entity in our domain model
 
 # 1. in terminal, generate the model and table for Company
-# rails generate model _____
+# rails generate model Company
 
 # 2. open newly generated files
 
